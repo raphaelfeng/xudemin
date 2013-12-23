@@ -3,33 +3,33 @@
 <title type="text">抽象艺术</title>
 <subtitle type="text">Jekyll Theme</subtitle>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2013-12-23T00:05:45-05:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://raphaelfeng.github.io/xudemin/feed.xml" />
+<link rel="alternate" type="text/html" href="http://raphaelfeng.github.io/xudemin" />
+<updated>2013-12-23T00:08:56-05:00</updated>
+<id>http://raphaelfeng.github.io/xudemin/</id>
 <author>
   <name>Demin Xu</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>http://raphaelfeng.github.io/xudemin/</uri>
   <email>xudemin@xudemin.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[见证抽象文学一许德民《抽象诗》诗集发布会]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/abstract-poem" />
-  <id>http://localhost:4000/articles/abstract-poem</id>
+  <link rel="alternate" type="text/html" href="http://raphaelfeng.github.io/xudemin/articles/abstract-poem" />
+  <id>http://raphaelfeng.github.io/xudemin/articles/abstract-poem</id>
   <published>2013-12-22T00:00:00-05:00</published>
   <updated>2013-12-22T00:00:00-05:00</updated>
   <author>
     <name>Demin Xu</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://raphaelfeng.github.io/xudemin</uri>
     <email>xudemin@xudemin.com</email>
   </author>
   <content type="html">&lt;figure&gt;
 	&lt;img src=&quot;/assets/images/posts/见证抽象文学.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/abstract-poem&quot;&gt;见证抽象文学一许德民《抽象诗》诗集发布会&lt;/a&gt; was originally published by Demin Xu at &lt;a href=&quot;http://localhost:4000&quot;&gt;抽象艺术&lt;/a&gt; on December 22, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://raphaelfeng.github.io/xudemin/articles/abstract-poem&quot;&gt;见证抽象文学一许德民《抽象诗》诗集发布会&lt;/a&gt; was originally published by Demin Xu at &lt;a href=&quot;http://raphaelfeng.github.io/xudemin&quot;&gt;抽象艺术&lt;/a&gt; on December 22, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
